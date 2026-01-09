@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nathalia Alvarez | Data Analyst</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 40px;
+      color: #333;
+    }
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      color: #007acc;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      margin-top: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Nathalia Alvarez</h1>
+  <h2>Data Analyst | Power BI | Python</h2>
+
+  <div class="card">
+    <p>
+      Chemical Engineer with a strong interest in Data Analytics.
+      I work with Power BI and Python to transform data into actionable insights.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>📊 Projects</h3>
+    <ul>
+      <li>Sales Dashboard – Power BI</li>
+      <li>Exploratory Data Analysis – Python</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>📬 Contact</h3>
+    <p>
+      GitHub:
+      <a href="https://github.com/nathialvarez8-blip" target="_blank">
+        nathialvarez8-blip
+      </a>
+      <br>
+      LinkedIn: www.linkedin.com/in/nathalia-alvarez-04b8961a0
+    </p>
+  </div>
+
+</body>
+</html>
